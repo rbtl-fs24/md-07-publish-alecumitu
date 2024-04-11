@@ -1,10 +1,8 @@
 ---
 title: "A minimal example"
 date: today
-author: First Last 
-format:
-  html:
-    toc: true
+author: Alexandru Mitu 
+format: revealjs
 execute:
   warning: false
 editor: visual
